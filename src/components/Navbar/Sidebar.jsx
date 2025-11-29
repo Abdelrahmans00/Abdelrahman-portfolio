@@ -109,7 +109,7 @@ export default function Sidebar() {
           <Mail size={24} />
         </a>
         <a
-          href="/Abdelrahman Sayed's CV.pdf"
+          href="/Abdelrahman-portfolio/Abdelrahman-Sayed-CV.pdf"
           download="Abdelrahman_Sayed_CV.pdf"
           className="hover:text-slate-200 transition-colors"
           aria-label="Download CV"
