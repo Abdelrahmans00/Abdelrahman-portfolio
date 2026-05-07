@@ -3,6 +3,13 @@ import { ArrowUpRight, Github } from "lucide-react";
 export default function Projects() {
   const projects = [
     {
+      title: "CoderCollab",
+      description:
+        "Built a full-stack real-time collaborative coding platform that allows multiple users to join shared coding rooms, write and edit code simultaneously, and communicate in real time. Implemented live synchronization using WebSockets. Integrated a code execution system to compile and run code securely in multiple languages.",
+      demoUrl: "https://coder-collab-frontend-pykt.vercel.app/",
+      technologies: ["React", "TypeScript", "Node.js", "Express js", "Prisma","postgresql", "WebSockets", "Tailwind"],
+    },
+    {
       title: "Weather Forecast App",
       description:
         "A clean and responsive weather application that provides real-time weather data and 7-day forecasts. Features location search, weather alerts, and interactive maps.",

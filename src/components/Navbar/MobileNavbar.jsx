@@ -42,7 +42,7 @@ export default function MobileNavbar() {
           <Mail size={24} />
         </a>
         <a
-          href="/Abdelrahman-portfolio/Abdelrahman-Sayed-CV.pdf"
+          href="/Abdelrahman-portfolio/Abdelrahman_Sayed_CV.pdf"
           download="Abdelrahman_Sayed_CV.pdf"
           className="hover:text-slate-200 transition-colors"
           aria-label="Download CV"

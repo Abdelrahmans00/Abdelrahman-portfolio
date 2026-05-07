@@ -20,6 +20,8 @@ export default function Skills() {
       category: "Backend & Tools",
       skills: [
         "Node.js",
+        "Express Js",
+        "Prisma",
         "django",
         "Ruby on Rails",
         "npm",
